@@ -15,9 +15,17 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: JABaker99
           template: classic
-          base: header, repositories, activity
-          languages: yes
-          languages_limit: 6
-          languages_details: percentage
-          commits: yes
+          
+          base: header, repositories
+          config_display: columns
+          config_order: base.header, base.activity, plugin_languages
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 2%
+          plugin_languages_other: yes
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_languages_categories: programming
+          
           output_action: commit
