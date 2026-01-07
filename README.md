@@ -1,55 +1,94 @@
 <h1 align="center">Hi, I'm Jacob Baker</h1>
-<h3 align="center">Computer Science Student | Software Developer | DevOps Enthusiast</h3>
+<h3 align="center">
+Computer Science Student | Software Engineer | DevOps & Cybersecurity Focus
+</h3>
 
 ---
 
-<div align="center">
+## About Me
 
-# Tech Stack:
+I am a **Computer Science senior at the University of West Georgia** with hands-on experience across  
+**software engineering, DevOps, cloud infrastructure, and cybersecurity**.
 
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" />
+- Coding since **7th grade**, with projects spanning desktop, web, systems, and automation
+- Professional experience supporting **critical infrastructure and cybersecurity initiatives**
+- Built and deployed applications using **AWS, Azure, CI/CD pipelines, and Linux environments**
+- Strong focus on **real-world impact, security, and maintainable systems**
+
+---
+
+## Core Technical Skills
+
+### Languages
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+### Web & Frameworks
+<p align="center">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
 
-</div>
+### Cloud, DevOps & Infrastructure
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=JBakerEdu&show_icons=true&theme=dark&hide_border=true"
+  height="165"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBakerEdu&layout=compact&theme=dark&hide_border=true"
+  height="165"
+/>
+</p>
 
 ---
 
-<div align="center">
+## Current Interests
 
- # About Me  
- I’m currently pursuing a **Bachelor of Science in Computer Science** at the **University of West Georgia**  
- I’ve been coding since **7th grade**, and I continue to grow my skills across full-stack development, UI/UX design, and DevOps.  
- Passionate about building software that solves real-world problems and helps users interact with technology more intuitively.  
- I love creating desktop, web, and automation tools — some of which I’ve hosted on AWS EC2 for distribution.
-
-</div>
+- Software Engineering & Systems Programming
+- DevOps, Cloud Infrastructure, and Automation
+- Cybersecurity & Secure Application Design
+- Robotics and low-level programming
+- Building production-ready academic and professional projects
 
 ---
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBakerEdu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" 
-    alt="Top Languages" 
-    width="400"
-  />
+## Connect With Me
 
-</div>
+- **LinkedIn:** https://www.linkedin.com/in/jabaker99/
+- **GitHub:** https://github.com/JABaker99
 
 ---
+
+> *This profile reflects my academic, professional, and personal engineering work.  
+> Repositories showcase coursework, research, experiments, and production-grade projects.*
