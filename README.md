@@ -71,7 +71,9 @@ I am a **Computer Science senior at the University of West Georgia** with hands-
 />
 </p>
 
-github-metrics.svg
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
 
 
 ---
