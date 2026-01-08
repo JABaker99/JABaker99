@@ -26,11 +26,15 @@ jobs:
           user: JABaker99
           template: classic
           base: ""
+
+          
           plugin_languages: yes
-          plugin_languages_limit: 20
-          plugin_languages_threshold: 0%
-          plugin_languages_other: yes
+          plugin_languages_recent_load: 500
+          plugin_languages_recent_days: 365
+          plugin_languages_limit: 10
           plugin_languages_details: percentage
-          plugin_languages_categories: programming, markup
+          plugin_languages_other: yes
+          plugin_languages_categories: programming,markup
+          
           filename: metrics-languages.svg
           output_action: commit
