@@ -60,10 +60,10 @@ I am a **Computer Science senior at the University of West Georgia** with hands-
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="./metrics-languages.svg" />
-</p>
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="./metrics-activity.svg" width="450" />
+  <img src="./metrics-languages.svg" width="450" />
+</div>
 
 ---
 
