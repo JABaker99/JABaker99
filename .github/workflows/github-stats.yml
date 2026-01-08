@@ -58,24 +58,6 @@ jobs:
             C++:C++,CPP
             Assembly:Assembly,ASM,6502 Assembly
 
-          extras_css: >-
-            /* Remove top "X languages" header */
-            .languages text.title {
-              display: none !important;
-            }
-          
-            /* Make "Most used languages" header bigger */
-            .languages text.subtitle {
-              font-size: 20px !important;
-              font-weight: 600 !important;
-            }
-          
-            /* Increase language name font size */
-            .languages text.value {
-              font-size: 14px !important;
-            }
-
-      
           delay: 120
           output_action: commit
           plugins_errors_fatal: yes
