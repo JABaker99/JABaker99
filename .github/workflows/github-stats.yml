@@ -39,7 +39,7 @@ jobs:
             IPv6-Converter-And-Endianess-Utility
 
           plugin_languages_details: lines, percentage
-          plugin_languages_limit: 10
+          plugin_languages_limit: 20
           plugin_languages_threshold: 0%
           plugin_languages_other: yes
           plugin_languages_sections: most-used
@@ -53,10 +53,10 @@ jobs:
             gradle,gitignore,scss,css,html
       
           plugin_languages_aliases: >-
-            Java:Java
             C#:C#,CSharp,.NET,ASP.NET
             Python:Python
             C++:C++,CPP
+            Assembly:Assembly,ASM,6502 Assembly
       
           delay: 120
           output_action: commit
