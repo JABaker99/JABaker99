@@ -58,7 +58,7 @@ jobs:
             C++:C++,CPP
             Assembly:Assembly,ASM,6502 Assembly
 
-          extras_css: |
+          extras_css: >-
             /* Remove top "X languages" header */
             .languages text.title {
               display: none !important;
