@@ -29,20 +29,29 @@ jobs:
           base: ""
           plugin_languages: yes
           
-          # SHOW EVERYTHING
-          plugin_languages_limit: 50
+           # FOCUS ON REAL LANGUAGES
+          plugin_languages_limit: 12
           plugin_languages_threshold: 0%
-          plugin_languages_other: no
           plugin_languages_details: bytes-size, percentage
       
-          # SHOW BOTH VIEWS
-          plugin_languages_sections: most-used, recently-used
+          # ALIAS RELATED LANGUAGES TOGETHER
+          plugin_languages_aliases: >-
+            C#:C#,CSharp,.NET
+            Java:Java
+            Python:Python
+            C++:C++,CPP
+      
+          # REMOVE NON-CODE NOISE ONLY
+          plugin_languages_ignored: >-
+            json,yaml,yml,xml,md,txt,ini,
+            dockerfile,makefile,cmake,gradle,
+            shell,batchfile,powershell
+      
+          # USE DEEP + RECENT SIGNAL
+          plugin_languages_indepth: yes
           plugin_languages_recent_load: 500
           plugin_languages_recent_days: 365
-      
-          # DEEP SCAN
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_sections: most-used, recently-used
       
           delay: 120
           output_action: commit
