@@ -59,17 +59,22 @@ jobs:
             Assembly:Assembly,ASM,6502 Assembly
 
           extras_css: |
-            .languages .title,
-            .languages .count {
+            /* Remove top "X languages" header */
+            .languages text.title {
               display: none !important;
             }
-            .languages .section-title {
+          
+            /* Make "Most used languages" header bigger */
+            .languages text.subtitle {
               font-size: 20px !important;
               font-weight: 600 !important;
             }
-            .languages .language text {
+          
+            /* Increase language name font size */
+            .languages text.value {
               font-size: 14px !important;
             }
+
       
           delay: 120
           output_action: commit
