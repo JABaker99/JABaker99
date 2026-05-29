@@ -118,7 +118,7 @@ I am a **Computer Science graduate from the University of West Georgia** with ha
 - Integrated real-time drone control and live camera transmission for dispatcher-assisted escort workflows
 - Presented research at Scholars Day, demonstrating stable flight behavior and future autonomous system development plans
 
-### [DevOps Project Portfolio Hub](https://github.com/JABaker99/DevOps-Project-Portfolio-Hub)
+### [DevOps Project Portfolio Hub](https://github.com/JABaker99/Project_Portfolio_Hub)
 - Built a CI/CD portfolio platform connecting a **JavaFX desktop client** with a **Node.js web portal**
 - Used **GitHub Actions** and **AWS EC2** to automate build and deployment workflows
 - Designed cloud-hosted deployment environments for full-stack applications
