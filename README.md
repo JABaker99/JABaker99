@@ -96,12 +96,12 @@ I am a **Computer Science graduate from the University of West Georgia** with ha
 
 ### Engineering Strengths
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-555555?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Data%20Structures-555555?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Testing%20%26%20Debugging-555555?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Technical%20Documentation-555555?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/UI%2FUX--Focused%20Design-555555?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Desktop--Web%20Hybrids-555555?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-2F5D8C?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Data%20Structures-2F5D8C?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Testing%20%26%20Debugging-2F5D8C?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Technical%20Documentation-2F5D8C?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/UI%2FUX--Focused%20Design-2F5D8C?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Desktop--Web%20Hybrids-2F5D8C?style=for-the-badge" /> 
 </p>
 
 ---
