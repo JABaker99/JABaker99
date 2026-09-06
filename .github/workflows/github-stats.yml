@@ -5,12 +5,21 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: github-profile-metrics
+  cancel-in-progress: false
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - name: Generate activity metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: JABaker99
@@ -20,16 +29,16 @@ jobs:
           output_action: commit
 
       - name: Languages activity (usage-focused)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d # master on 2026-09-06
         with:
           filename: metrics-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: JABaker99
-      
+
           base: ""
           plugin_languages: yes
 
-          #Adding Assembly Project that are ignored without
+          # Include Assembly projects that the default analysis misses.
           plugin_languages_indepth_custom: >-
             Commodore-64-Character-Classifier-And-Screen-Output-Program,
             Commodore-64-Text-Output-Demo,
@@ -43,22 +52,20 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_other: no
           plugin_languages_sections: most-used
-      
+
           repositories_affiliations: owner,collaborator,organization_member
           repositories_forks: yes
-      
+
           plugin_languages_ignored: >-
             json,yaml,yml,xml,md,txt,ini,
             dockerfile,makefile,cmake,
             gradle,gitignore,scss,css,html
-      
+
           plugin_languages_aliases: >-
             C#:C#,CSharp,.NET,ASP.NET
             Python:Python
             C++:C++,CPP
             Assembly:Assembly,ASM,6502 Assembly
 
-          delay: 120
           output_action: commit
           plugins_errors_fatal: yes
-
