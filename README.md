@@ -1,129 +1,47 @@
 <h1 align="center">Hi, I'm Jacob Baker</h1>
 
 <h3 align="center">
-Full-Stack Web Developer | Software Engineer | DevOps | Cybersecurity | Robotics Simulation
+Technical & Digital Product Management | Technical Project Management | Product Discovery, Roadmaps & Delivery
 </h3>
 
 ---
 
-## About Me
+I'm the founder of **Launching Creative Solutions LLC** and a **Computer Science graduate from the University of West Georgia**, working across digital product development and technical project delivery. I connect user needs and business priorities with product discovery, roadmaps, requirements, and hands-on engineering.
 
-I am a **Computer Science graduate from the University of West Georgia** with hands-on experience across  
-**software engineering, web development, DevOps, cloud infrastructure, cybersecurity, and autonomous systems**.
+My work spans client websites, connected applications, and media platforms: understand the problem, define an MVP, align stakeholders, and carry the solution through launch and improvement. My background also includes cybersecurity assessments and school IT deployments.
 
-- Built and maintained award-winning websites with measurable traffic, accessibility, and usability improvements
-- Developed full-stack and cloud-hosted applications using **Java, C#, JavaScript, TypeScript, Node.js, ASP.NET, AWS, Azure, Vercel, and PostgreSQL**
-- Led autonomous drone simulation research using **ROS 2 Jazzy, Gazebo Sim, and real-time camera/control workflows**
-- Completed cybersecurity work involving **NIST CSF, vulnerability assessments, risk analysis, secure configuration review, and PCII**
-- Strong interest in building reliable, secure, user-focused systems with real-world impact
+## Selected products and delivery outcomes
 
----
+### Wynn Tattoo — Connected web applications
+**Launching Creative Solutions LLC**
 
-## Core Technical Skills
+- Led discovery and requirements to move booking communication from fragmented social-media workflows into structured digital channels.
+- Deployed **two interconnected Next.js/Cloudflare applications** with centralized storage.
+- Delivered **seven self-service publishing features**, enabling nontechnical users to manage routine content updates.
 
-### Languages
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Java-4DA3FF?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaFX-4DA3FF?style=for-the-badge&logo=java&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Python-4DA3FF?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/C%23-4DA3FF?style=for-the-badge&logo=csharp&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/C%2B%2B-4DA3FF?style=for-the-badge&logo=cplusplus&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Rust-4DA3FF?style=for-the-badge&logo=rust&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-4DA3FF?style=for-the-badge&logo=javascript&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/TypeScript-4DA3FF?style=for-the-badge&logo=typescript&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SQL-4DA3FF?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Bash-4DA3FF?style=for-the-badge&logo=gnubash&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Assembly-4DA3FF?style=for-the-badge&logoColor=white" /> 
-</p>
+### 10:20 Treats — Storefront MVP
+**Launching Creative Solutions LLC**
 
-### Web & Application Development
-<p align="center"> 
-  <img src="https://img.shields.io/badge/ASP.NET-F28C28?style=for-the-badge&logo=dotnet&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Node.js-F28C28?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/HTML5-F28C28?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-F28C28?style=for-the-badge&logo=css&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Bootstrap-F28C28?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/WordPress-F28C28?style=for-the-badge&logo=wordpress&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Razor-F28C28?style=for-the-badge&logo=dotnet&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Blazor-F28C28?style=for-the-badge&logo=blazor&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Entity%20Framework-F28C28?style=for-the-badge&logo=dotnet&logoColor=white" /> 
-</p>
+- Defined the product roadmap and built and launched a **Next.js/TypeScript MVP in one week**.
+- Coordinated branding, pricing, and content decisions and completed technical SEO work for launch.
+- Launch was followed by a **48-piece bulk order**, compared with typical purchases of one to two pieces.
 
-### Cloud, DevOps & Infrastructure
-<p align="center"> 
-  <img src="https://img.shields.io/badge/AWS%20EC2-7A3FF2?style=for-the-badge&logo=amazonec2&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Azure-7A3FF2?style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Vercel-7A3FF2?style=for-the-badge&logo=vercel&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Linux-7A3FF2?style=for-the-badge&logo=linux&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Ubuntu-7A3FF2?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Git-7A3FF2?style=for-the-badge&logo=git&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/GitHub%20Actions-7A3FF2?style=for-the-badge&logo=githubactions&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CI%2FCD-7A3FF2?style=for-the-badge&logo=github&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/PostgreSQL-7A3FF2?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-</p>
+### WOLF Radio & WOLF Sports Network — Digital platform improvements
+**Web Service Director | August 2023–May 2026**
 
-### Cybersecurity & Compliance
-<p align="center"> 
-  <img src="https://img.shields.io/badge/NIST%20CSF-2E8B57?style=for-the-badge&logo=nist&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Vulnerability%20Assessments-2E8B57?style=for-the-badge&logo=securityscorecard&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Risk%20Analysis-2E8B57?style=for-the-badge&logo=googleanalytics&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Secure%20Configuration%20Review-2E8B57?style=for-the-badge&logo=datadog&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/PCII%20Authorized%20User-C70039?style=for-the-badge&logo=shield&logoColor=white" /> 
-</p>
+- Owned platform priorities and UX improvements across **two websites**, connecting audience needs with content and design decisions and aligning **10+ stakeholders**.
+- Prioritized a reusable show archive to meet demand for past programming and simplify content organization.
+- Earned **top-five Best Website finishes across three competition cycles**; active users grew **243%** during my tenure.
+- Introduced a standardized media workflow that reduced turnaround from **one week to one day** once initial recordings were ready.
+- Mentored **two team members** and documented workflows and handoffs to support ongoing operations.
 
-### Robotics, Simulation & Systems
-<p align="center"> 
-  <img src="https://img.shields.io/badge/ROS%202%20Jazzy-555555?style=for-the-badge&logo=ros&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Gazebo%20Sim-555555?style=for-the-badge&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Autonomous%20Systems-555555?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Robotics%20Simulation-555555?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Low--Level%20Programming-555555?style=for-the-badge" /> 
-</p>
+## Additional experience
 
-### Tools & Engineering Practices
-<p align="center"> 
-  <img src="https://img.shields.io/badge/GitHub-E5533D?style=for-the-badge&logo=github&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Git%20Bash-E5533D?style=for-the-badge&logo=gitforwindows&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Visual%20Studio-E5533D?style=for-the-badge&logo=visualstudio&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/VS%20Code-E5533D?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Eclipse-E5533D?style=for-the-badge&logo=eclipseide&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Scene%20Builder-E5533D?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/AWS%20Console-E5533D?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/pgAdmin-E5533D?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/VMware%20Workstation-E5533D?style=for-the-badge&logo=vmware&logoColor=white" /> 
-</p>
+**Georgia Emergency Management and Homeland Security Agency**  
+Conducted NIST CSF-aligned assessments for **five critical-infrastructure partners** under PCII confidentiality protocols. Produced documentation supporting **300 website issue resolutions**, with the optimization score increasing from **72 to 94**.
 
-### Engineering Strengths
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-2F5D8C?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Data%20Structures-2F5D8C?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Testing%20%26%20Debugging-2F5D8C?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Technical%20Documentation-2F5D8C?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/UI%2FUX--Focused%20Design-2F5D8C?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Desktop--Web%20Hybrids-2F5D8C?style=for-the-badge" /> 
-</p>
-
----
-
-## Featured Work
-
-### [10:20 Treat Website](https://1020treats.vercel.app)
-- Designed, developed, and delivered a production-ready website for a startup bakery business
-- Managed deployment, hosting, version control, and production updates through **Vercel** and **GitHub**
-- Improved search visibility through sitemap generation, metadata configuration, and SEO optimization
-
-### [Drone Assisted Campus Safety](https://github.com/JABaker99/Drone-Assisted-Campus-Safety)
-- Engineered a simulated drone safety escort system using **ROS 2 Jazzy** and **Gazebo Sim**
-- Integrated real-time drone control and live camera transmission for dispatcher-assisted escort workflows
-- Presented research at Scholars Day, demonstrating stable flight behavior and future autonomous system development plans
-
-### [DevOps Project Portfolio Hub](https://github.com/JABaker99/Project_Portfolio_Hub)
-- Built a CI/CD portfolio platform connecting a **JavaFX desktop client** with a **Node.js web portal**
-- Used **GitHub Actions** and **AWS EC2** to automate build and deployment workflows
-- Designed cloud-hosted deployment environments for full-stack applications
-
----
+**Jasper County Board of Education**  
+Supported a **300-computer deployment across six educational facilities**, including asset tracking, configuration, testing, and validation of **500 device records**.
 
 ## GitHub Stats
 
@@ -131,6 +49,30 @@ I am a **Computer Science graduate from the University of West Georgia** with ha
   <img src="./metrics-activity.svg" width="450" />
   <img src="./metrics-languages.svg" width="450" />
 </div>
+
+## Skills and tools
+
+| Area | Focus |
+| --- | --- |
+| Product management | Product discovery, roadmapping, requirements, MVP definition, feature prioritization, user experience |
+| Project management | Scope and requirements, scheduling, stakeholder management, risk assessment, executive reporting |
+| Delivery | Agile, Scrum, Waterfall, release planning, cross-functional coordination, stakeholder reviews |
+| Web engineering | Next.js, React, TypeScript, JavaScript, API integration, WordPress |
+| Data and infrastructure | SQL, PostgreSQL, Supabase, Cloudflare, AWS EC2, Azure, GitHub workflows |
+| Security and quality | NIST CSF, vulnerability analysis, accessibility assurance, technical documentation |
+
+## More engineering work
+
+These projects show the technical foundation behind my product and project work.
+
+- **[Drone Assisted Campus Safety](https://github.com/JABaker99/Drone-Assisted-Campus-Safety):** A simulated drone safety escort system using ROS 2 Jazzy and Gazebo Sim, with real-time control and camera transmission for dispatcher-assisted workflows.
+- **[Project Portfolio Hub](https://github.com/JABaker99/Project_Portfolio_Hub):** A JavaFX desktop client and Node.js web portal, with build and deployment workflows using GitHub Actions and AWS EC2.
+
+## Education and professional development
+
+- **B.S. in Computer Science** — University of West Georgia
+- **Pendo:** Product Discovery Certification, Product Analytics Certification, and AI for Product Management
+- **PMP exam preparation in progress** — 35 hours of project management education
 
 ---
 
