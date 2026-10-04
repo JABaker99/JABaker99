@@ -43,13 +43,6 @@ Conducted NIST CSF-aligned assessments for **five critical-infrastructure partne
 **Jasper County Board of Education**  
 Supported a **300-computer deployment across six educational facilities**, including asset tracking, configuration, testing, and validation of **500 device records**.
 
-## GitHub Stats
-
-<div align="center">
-  <img src="./metrics-activity.svg" width="450" />
-  <img src="./metrics-languages.svg" width="450" />
-</div>
-
 ## Skills and tools
 
 | Area | Focus |
